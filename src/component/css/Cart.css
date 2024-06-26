@@ -1,0 +1,23 @@
+.cart {
+    padding: 2rem 0;
+  }
+  
+  .cart h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .cart ul {
+    padding: 0;
+  }
+  
+  .cart li {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .cart li span {
+    display: block;
+  }
+  
